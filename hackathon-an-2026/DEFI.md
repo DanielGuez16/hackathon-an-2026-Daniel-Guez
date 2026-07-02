@@ -1,7 +1,7 @@
 # DEFI.md
 
 ### Nom du défi
-TALIA — Un copilote IA fiable pour préparer une intervention parlementaire
+TALIA : un copilote IA fiable pour préparer une intervention parlementaire
 
 ### Description courte
 Un copilote IA qui aide un député à maîtriser un sujet juridique technique en quelques heures : retrouver les bons textes, garantir la version en vigueur à la date utile, et sourcer chaque affirmation par un lien officiel vérifiable, sans jamais halluciner le droit.
@@ -33,7 +33,7 @@ TALIA
 Le résultat : une note structurée, sourcée et vérifiable, produite en quelques minutes au lieu de plusieurs heures, sur laquelle un parlementaire peut réellement s'appuyer.
 
 ### Image principale
-![Image principale](images/cover.png)
+_À venir_
 
 ### Contributeurs
 - Daniel Guez
@@ -70,15 +70,13 @@ Cochez les ressources utilisées en remplaçant `[ ]` par `[x]`.
 - [ ] `legiwatch-serveur-mcp-parlement` — Serveur MCP Parlement ✺ LegiWatch
 
 ### Galerie
-- [Image 1](images/image-1.png)
-- [Image 2](images/image-2.png)
+_À venir_
 
 ### Documents
-- [Tableur 1](docs/Classeur1.xlsx)
-- [Document 2](docs/document-2.pdf)
+_À venir_
 
 ### URL de démonstration
-https://votre-application.example.com
+_À venir_
 
 ### Diapositives de présentation
-[Diapositives de présentation](docs/diapositives.pdf)
+_À venir_
